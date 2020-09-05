@@ -1,4 +1,6 @@
 # nuxt-nodejs-jwt
+### You can find the backend API project here: https://github.com/samfallahian/NodeJs-JWT-Mysql-API
+
 
 ## Build Setup
 
